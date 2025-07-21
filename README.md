@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m @hk2166<br>👀 I’m interested in Creating Responsive Webpages<br>🌱 I’m currently learning python, HTML and CSS<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me contact me on github or linkedin(https://www.linkedin.com/in/hemant9610/)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! It’s a little pun on coding and the fact that actual bugs are drawn to light.
+👋 Hi, I’m @hk2166<br>👀 I’m interested in Creating Responsive Webpages<br>🌱 I’m currently learning python, HTML, CSS, JS, Node, javaScript, etc<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me contact me on github or linkedin(https://www.linkedin.com/in/hemant9610/)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! It’s a little pun on coding and the fact that actual bugs are drawn to light.
 
 
 ## 🌐 Socials:
