@@ -33,10 +33,6 @@
 📚 *Bachelor of Science – Data Science and Application*  
 📅 *2024 – 2028*
 
-🏫 **[Your High School Name Here]**  
-📚 *Intermediate (Class XII)*  
-📅 *2021 – 2023*
-
 ---
 
 ## 🛠️ Tech Stack
