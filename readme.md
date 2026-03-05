@@ -39,7 +39,7 @@
    Currently building projects using <strong>React, Next.js, Firebase, Express.js, Supabase</strong><br>
    Developing an <strong>AI-Powered Teaching Assistant</strong> and a <strong>Forest Fire Prediction & Simulation System</strong><br>
    Strong foundation in <strong>DSA, System Design, and practical implementation</strong><br>
-  ⚡ I care about shipping functional products — not just writing code.
+   I care about shipping functional products — not just writing code.
 </p>
 
 <div style="height:30px;"></div>
