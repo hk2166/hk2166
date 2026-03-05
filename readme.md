@@ -6,8 +6,8 @@
 <p align="center">
   <!-- Animated Waving Text in a curvy, visible font -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Hemant%20👋&fontSize=50&animation=fadeIn&font=Pacifico&gradient=3B82F6,0e75b6" 
-    alt="Animated Hi there, I'm Hemant 👋" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Hemant%20&fontSize=50&animation=fadeIn&font=Pacifico&gradient=3B82F6,0e75b6" 
+    alt="Animated Hi there, I'm Hemant" 
   />
 </p>
 
@@ -30,29 +30,29 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 <h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">
-  About Me 🚀
+  About Me 
 </h2>
 
 <p align="center" style="max-width:720px; margin:auto; line-height:1.9em; font-family:'Fira Code', monospace; font-size:16px; color:#222;">
-  🎓 Engineering Student focused on building <strong>scalable, real-world systems</strong><br>
-  💻 Working across <strong>Full Stack Development, AI/ML, and Backend Architecture</strong><br>
-  🛠 Currently building projects using <strong>React, Next.js, Firebase, Express.js, Supabase</strong><br>
-  🔥 Developing an <strong>AI-Powered Teaching Assistant</strong> and a <strong>Forest Fire Prediction & Simulation System</strong><br>
-  🧠 Strong foundation in <strong>DSA, System Design, and practical implementation</strong><br>
+   Engineering Student focused on building <strong>scalable, real-world systems</strong><br>
+   Working across <strong>Full Stack Development, AI/ML, and Backend Architecture</strong><br>
+   Currently building projects using <strong>React, Next.js, Firebase, Express.js, Supabase</strong><br>
+   Developing an <strong>AI-Powered Teaching Assistant</strong> and a <strong>Forest Fire Prediction & Simulation System</strong><br>
+   Strong foundation in <strong>DSA, System Design, and practical implementation</strong><br>
   ⚡ I care about shipping functional products — not just writing code.
 </p>
 
 <div style="height:30px;"></div>
 <!-- ==================== EDUCATION ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Education 🎓</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Education </h2>
 
 <p align="center" style="max-width:700px; margin:auto; line-height:1.8em; font-family:'Fira Code', monospace; font-size:16px; color:#222; text-shadow: 0.5px 0.5px 1px #ccc;">
-  🏫 <strong>Newton School of Technology, India</strong><br>
-  📚 <em>Bachelor of Technology – Computer Science & Engineering</em><br>
-  📅 <em>2024 – 2028</em><br><br>
-  🏫 <strong>Indian Institute of Technology Madras</strong><br>
-  📚 <em>Bachelor of Science – Data Science and Application</em><br>
-  📅 <em>2024 – 2028</em>
+   <strong>Newton School of Technology, India</strong><br>
+   <em>Bachelor of Technology – Computer Science & Engineering</em><br>
+   <em>2024 – 2028</em><br><br>
+   <strong>Indian Institute of Technology Madras</strong><br>
+   <em>Bachelor of Science – Data Science and Application</em><br>
+   <em>2024 – 2028</em>
 </p>
 
 <div style="margin:40px 0;"></div>
@@ -104,7 +104,7 @@
 <div style="margin:40px 0;"></div>
 
 <!-- ==================== SOFT SKILLS ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Soft Skills 🧩</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Soft Skills </h2>
 
 <p align="center" style="max-width:700px; margin:auto; line-height:1.8em; font-family:'Fira Code', monospace; font-size:16px; color:#222; text-shadow: 0.5px 0.5px 1px #ccc;">
   <strong>Leadership:</strong> Team Management, Collaboration, Mentoring<br>
@@ -159,7 +159,7 @@
 <div style="margin:40px 0;"></div>
 
 <!-- ==================== CONTRIBUTION GRAPH ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Contribution Graph 📈</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Contribution Graph </h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hk2166&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
@@ -168,7 +168,7 @@
 <div style="margin:40px 0;"></div>
 
 <!-- ==================== COMPETITIVE PROGRAMMING ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Competitive Programming 🧠</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Competitive Programming </h2>
 
 <div align="center">
   <a href="https://codeforces.com/profile/hemant9610">
@@ -194,7 +194,7 @@
 <div style="margin:40px 0;"></div>
 
 <div align="center">
-  <h3 align="center" style="font-family: 'Poppins', sans-serif;">💼 Open to Collaborations & Exciting Opportunities</h3>
-  <h3 align="center" style="font-family: 'Poppins', sans-serif;">⭐ Show some love by starring repositories you find valuable</h3>
+  <h3 align="center" style="font-family: 'Poppins', sans-serif;"> Open to Collaborations & Exciting Opportunities</h3>
+  <h3 align="center" style="font-family: 'Poppins', sans-serif;"> Show some love by starring repositories you find valuable</h3>
   <p align="center" style="font-style: italic; font-weight: bold;">"Code is like poetry — simplicity and clarity make it beautiful."</p>
 </div>
