@@ -50,9 +50,7 @@
    <strong>Newton School of Technology, India</strong><br>
    <em>Bachelor of Technology – Computer Science & Engineering</em><br>
    <em>2024 – 2028</em><br><br>
-   <strong>Indian Institute of Technology Madras</strong><br>
-   <em>Bachelor of Science – Data Science and Application</em><br>
-   <em>2024 – 2028</em>
+  
 </p>
 
 <div style="margin:40px 0;"></div>
