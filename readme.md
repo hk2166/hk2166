@@ -101,19 +101,6 @@
 
 <div style="margin:40px 0;"></div>
 
-<!-- ==================== SOFT SKILLS ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Soft Skills </h2>
-
-<p align="center" style="max-width:700px; margin:auto; line-height:1.8em; font-family:'Fira Code', monospace; font-size:16px; color:#222; text-shadow: 0.5px 0.5px 1px #ccc;">
-  <strong>Leadership:</strong> Team Management, Collaboration, Mentoring<br>
-  <strong>Problem Solving:</strong> Logical Thinking, Debugging, Optimization<br>
-  <strong>Communication:</strong> Presentation, Documentation, Client Coordination<br>
-  <strong>Professional:</strong> Time Management, Ownership, Creativity
-</p>
-
-<div style="margin:40px 0;"></div>
-
-<div style="margin:40px 0;"></div>
 
 <!-- ==================== HACKTOBERFEST ==================== -->
 <h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Hacktoberfest</h2>
@@ -165,34 +152,4 @@
 
 <div style="margin:40px 0;"></div>
 
-<!-- ==================== COMPETITIVE PROGRAMMING ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Competitive Programming </h2>
 
-<div align="center">
-  <a href="https://codeforces.com/profile/hemant9610">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.hackerearth.com/@hk2166">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Hemant9610/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</div>
-
-<div style="margin:40px 0;"></div>
-
-<!-- ==================== QUOTE ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Random Dev Quote 💡</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div style="margin:40px 0;"></div>
-
-<div align="center">
-  <h3 align="center" style="font-family: 'Poppins', sans-serif;"> Open to Collaborations & Exciting Opportunities</h3>
-  <h3 align="center" style="font-family: 'Poppins', sans-serif;"> Show some love by starring repositories you find valuable</h3>
-  <p align="center" style="font-style: italic; font-weight: bold;">"Code is like poetry — simplicity and clarity make it beautiful."</p>
-</div>
