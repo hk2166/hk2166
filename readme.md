@@ -15,34 +15,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/hk2166?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hk2166?label=Stars&style=social" alt="Stars" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hk2166&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 <div style="margin:40px 0;"></div>
 
-<!-- ==================== ABOUT ME ==================== -->
-<h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">
-  About Me 
-</h2>
 
-<p align="center" style="max-width:720px; margin:auto; line-height:1.9em; font-family:'Fira Code', monospace; font-size:16px; color:#222;">
-   Engineering Student focused on building <strong>scalable, real-world systems</strong><br>
-   Working across <strong>Full Stack Development, AI/ML, and Backend Architecture</strong><br>
-   Currently building projects using <strong>React, Next.js, Firebase, Express.js, Supabase</strong><br>
-   Developing an <strong>AI-Powered Teaching Assistant</strong> and a <strong>Forest Fire Prediction & Simulation System</strong><br>
-   Strong foundation in <strong>DSA, System Design, and practical implementation</strong><br>
-   I care about shipping functional products — not just writing code.
-</p>
+
 
 <div style="height:30px;"></div>
+
+
 <!-- ==================== EDUCATION ==================== -->
 <h2 align="center" style="font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 2px #aaa;">Education </h2>
 
@@ -52,6 +35,13 @@
    <em>2024 – 2028</em><br><br>
   
 </p>
+
+## A more detailed graph of my contributions over the past year 📈
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![GitHub stats](https://raw.githubusercontent.com/hk2166/hk2166/main/profile-3d-contrib/profile-night-green.svg)
+
+<br/>
 
 <div style="margin:40px 0;"></div>
 
