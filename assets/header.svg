@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="880" height="284" viewBox="0 0 880 284" role="img" aria-label="A terminal runs man hemant. HEMANT(1). NAME: hemant, builds robots, agents, and AI that runs on your own machine. SYNOPSIS: hemant [--local-first] [--from-scratch] idea; hemant --ship [--at 2am] project.">
+  <style>
+    text { font: 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; fill: #d5dae3; white-space: pre; }
+    .t { fill: #7a8291; font-size: 12px; }
+    .h { fill: #ffb454; font-weight: 700; }
+    .b { font-weight: 700; }
+    .f { fill: #8ddb8c; }
+    .u { fill: #79c0ff; text-decoration: underline; }
+    .d { fill: #7a8291; }
+    .inv { fill: #0e1014; }
+
+    .prompt { animation: out .01s 1.75s step-end both; }
+    .cur { animation: blink 1s step-end infinite; }
+    .man { animation: in .2s ease-out both; }
+    @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes out { from { opacity: 1; } to { opacity: 0; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .prompt { display: none; }
+      .man, .cur { animation: none; }
+    }
+  </style>
+
+  <rect x=".5" y=".5" width="879" height="283" rx="10" fill="#0e1014" stroke="#2a2f3a"/>
+  <path d="M.5 34V10.5a10 10 0 0 1 10-10h859a10 10 0 0 1 10 10V34z" fill="#171a21"/>
+  <line x1=".5" y1="34" x2="879.5" y2="34" stroke="#2a2f3a"/>
+  <text x="440" y="21" text-anchor="middle" class="t">hemant@pune: ~</text>
+
+  <!-- 1. the command gets typed, one character at a time -->
+  <g class="prompt">
+    <text x="24" y="70" class="f">$</text>
+    <text x="40.8" y="70" opacity="0">m<set attributeName="opacity" to="1" begin=".35s" fill="freeze"/></text>
+    <text x="49.2" y="70" opacity="0">a<set attributeName="opacity" to="1" begin=".44s" fill="freeze"/></text>
+    <text x="57.6" y="70" opacity="0">n<set attributeName="opacity" to="1" begin=".53s" fill="freeze"/></text>
+    <text x="74.4" y="70" opacity="0">h<set attributeName="opacity" to="1" begin=".68s" fill="freeze"/></text>
+    <text x="82.8" y="70" opacity="0">e<set attributeName="opacity" to="1" begin=".77s" fill="freeze"/></text>
+    <text x="91.2" y="70" opacity="0">m<set attributeName="opacity" to="1" begin=".86s" fill="freeze"/></text>
+    <text x="99.6" y="70" opacity="0">a<set attributeName="opacity" to="1" begin=".95s" fill="freeze"/></text>
+    <text x="108" y="70" opacity="0">n<set attributeName="opacity" to="1" begin="1.04s" fill="freeze"/></text>
+    <text x="116.4" y="70" opacity="0">t<set attributeName="opacity" to="1" begin="1.13s" fill="freeze"/></text>
+    <rect x="40.8" y="57" width="8.4" height="17" fill="#d5dae3" class="cur">
+      <animate attributeName="x" values="40.8;49.2;57.6;66;74.4;82.8;91.2;99.6;108;116.4;124.8"
+               keyTimes="0;0.289;0.364;0.438;0.496;0.562;0.636;0.711;0.785;0.860;0.934" dur="1.21s" calcMode="discrete" fill="freeze"/>
+    </rect>
+  </g>
+
+  <!-- 2. man clears the screen and paints the page -->
+  <g class="man" style="animation-delay:1.8s">
+    <text x="24" y="70">HEMANT(1)</text>
+    <text x="440" y="70" text-anchor="middle">General Commands Manual</text>
+    <text x="856" y="70" text-anchor="end">HEMANT(1)</text>
+  </g>
+  <g class="man" style="animation-delay:1.86s">
+    <text x="24" y="110" class="h">NAME</text>
+    <text x="82" y="134"><tspan class="b">hemant</tspan> — builds robots, agents, and AI that runs on your own machine</text>
+  </g>
+  <g class="man" style="animation-delay:1.92s">
+    <text x="24" y="174" class="h">SYNOPSIS</text>
+    <text x="82" y="198"><tspan class="b">hemant</tspan> <tspan class="d">[</tspan><tspan class="f">--local-first</tspan><tspan class="d">] [</tspan><tspan class="f">--from-scratch</tspan><tspan class="d">]</tspan> <tspan class="u">idea</tspan></text>
+    <text x="82" y="222"><tspan class="b">hemant</tspan> <tspan class="f">--ship</tspan> <tspan class="d">[</tspan><tspan class="f">--at</tspan> <tspan class="u">2am</tspan><tspan class="d">]</tspan> <tspan class="u">project</tspan></text>
+  </g>
+
+  <!-- 3. the pager's status line, exactly where less puts it -->
+  <g class="man" style="animation-delay:1.98s">
+    <rect x="24" y="243" width="512.4" height="19" fill="#d5dae3"/>
+    <text x="24" y="257" class="inv" textLength="512.4" lengthAdjust="spacing"> Manual page hemant(1) line 1 (press h for help or q to quit)</text>
+    <rect x="536.4" y="243" width="8.4" height="19" fill="#d5dae3" class="cur"/>
+  </g>
+</svg>
